@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ryan Montoya
-🔰Domain - Junior Fullstack Developer<br>📚Languages: Css , Javascript ,  <br>🧊 Frameworks : React js ,  Tailwind Css , Prisma Library, Node js, Postgresql, MongoDB
+🔰Domain - Junior Developer<br>📚Languages: Css , Javascript ,  <br>🧊 Frameworks : React js ,  Tailwind Css , Prisma Library, Node js, Postgresql, MongoDB
 
 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
