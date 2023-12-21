@@ -17,4 +17,7 @@
 ### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+Weekly Profile Views - 
+[![](https://visitcount.itsvg.in/api?id=alkhalidsardar&icon=1&color=2)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
