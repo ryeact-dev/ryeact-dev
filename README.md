@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=f7f700&background=00FFE400&center=true&width=435&lines=Kilven+Codes+here+......;Computer+Science+Graduate;Full+Stack(MERN+Stack)+Developer;Graphics+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=f7f700&background=00FFE400&center=true&width=435&lines=Kilven+Codes+here+......;Computer+Science+Graduate;Junior+Full+Stack(PERN+Stack)+Developer;Graphics+Designer)](https://git.io/typing-svg)
 
 
 
@@ -15,8 +15,7 @@
 Profileme.dev
 --->
 * 🌍  I'm based in Jaipur
-* 🖥️  See my portfolio at [Portfolio](https://tejender-upadhyay.netlify.app/)
-* ✉️  You can contact me at [code.tejender@gmail.com](mailto:code.tejender@gmail.com)
+* ✉️  You can contact me at [kilven.coder01@gmail.com](mailto:kilven.coder01@gmail.com)
 * 🧠  Focused and efficient self taught learner with practical expertise in full stack web development.
 * 🤝  Highly extensive experience working with Javascript, I would jump at any opportunity to continue growing my skillset in the JS field.
 
