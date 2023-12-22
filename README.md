@@ -36,7 +36,6 @@ Profileme.dev
 <div align="center">
   
 <code><img src="https://img.icons8.com/fluency/48/null/adobe-photoshop.png" alt="Adobe-Photoshop" /><img src="https://img.icons8.com/fluency/48/null/adobe-illustrator.png" alt="Adobe-Illustrator" /></code> 
-<br>
 </div>
 
 <code><img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="PostgreSQL" /><img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" /><img src="https://img.icons8.com/office/40/null/react.png"  alt="React" /><img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" /></code> 
@@ -47,8 +46,9 @@ Profileme.dev
 
 <code><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png" alt="TailwindCSS" /><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 </div>
+<br/>
 
-  <div>
+<div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
