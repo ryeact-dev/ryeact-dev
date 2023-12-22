@@ -29,8 +29,8 @@ Profileme.dev
 <br/>
 
 <code><img src="https://img.icons8.com/fluency/48/null/adobe-photoshop.png" alt="Adobe-Photoshop" /><img src="https://img.icons8.com/fluency/48/null/adobe-illustrator.png" alt="Adobe-Illustrator" /></code> 
-
-<code>[<img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" />](https://img.icons8.com/?size=48&id=38561&format=png)<img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" /><img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" /><img src="https://img.icons8.com/office/40/null/react.png"  alt="React" /></code> 
+https://img.icons8.com/?size=48&id=38561&format=png
+<code><img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="PostgreSQL" /><img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" /><img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" /><img src="https://img.icons8.com/office/40/null/react.png"  alt="React" /></code> 
 
 <code><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" /><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/null/heroku.png" alt="Heroku" /><img src="https://img.icons8.com/color/48/000000/git.png"/></code> 
 
