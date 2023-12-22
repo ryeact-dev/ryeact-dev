@@ -32,7 +32,7 @@ Profileme.dev
 
 <code><img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="PostgreSQL" /><img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" /><img src="https://img.icons8.com/office/40/null/react.png"  alt="React" /><img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" /></code> 
 
-<code><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" /><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/null/heroku.png" alt="Heroku" /><img src="https://img.icons8.com/color/48/000000/git.png"/></code> 
+<code><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" /><img src="https://img.icons8.com/color/48/null/heroku.png" alt="Heroku" /><img src="https://img.icons8.com/color/48/000000/git.png"/></code> 
 
 <code><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png" alt="TailwindCSS" /><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 
