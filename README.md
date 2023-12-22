@@ -34,6 +34,6 @@ Profileme.dev
 
 <code><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" /><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/null/heroku.png" alt="Heroku" /><img src="https://img.icons8.com/color/48/000000/git.png"/></code> 
 
-<code><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png" alt="TailwindCSS" /><img src="https://img.icons8.com/color/48/null/bootstrap.png" alt="Bootstrap" /><img src="https://img.icons8.com/color/48/null/material-ui.png" alt="Material UI" /></code>
+<code><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png" alt="TailwindCSS" /><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 
 
