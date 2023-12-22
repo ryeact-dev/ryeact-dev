@@ -14,7 +14,7 @@
 <!--
 Profileme.dev
 --->
-* 🌍  I'm based in Jaipur
+* 🌍  I'm based in Philippines
 * ✉️  You can contact me at [kilven.coder01@gmail.com](mailto:kilven.coder01@gmail.com)
 * 🧠  Focused and efficient self taught learner with practical expertise in full stack web development.
 * 🤝  Highly extensive experience working with Javascript, I would jump at any opportunity to continue growing my skillset in the JS field.
@@ -27,8 +27,10 @@ Profileme.dev
 
 <h2 align="center">Skills</h2>
 <br/>
-
+<div class="align-center">
+  
 <code><img src="https://img.icons8.com/fluency/48/null/adobe-photoshop.png" alt="Adobe-Photoshop" /><img src="https://img.icons8.com/fluency/48/null/adobe-illustrator.png" alt="Adobe-Illustrator" /></code> 
+</div>
 
 <code><img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="PostgreSQL" /><img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" /><img src="https://img.icons8.com/office/40/null/react.png"  alt="React" /><img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" /></code> 
 
