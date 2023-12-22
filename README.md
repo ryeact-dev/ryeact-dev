@@ -37,3 +37,27 @@ Profileme.dev
 <code><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png" alt="TailwindCSS" /><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 
 
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/ryeact-dev/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryeact-dev&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Kilven Codes :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/ryeact-dev/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ryeact-dev&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryeact-dev&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div> 
+
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ryeact-dev/count.svg" />
+</p>
+
+
