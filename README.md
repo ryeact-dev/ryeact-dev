@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=f7f700&background=00FFE400&center=true&width=435&lines=Kilven+Codes+here+......;Computer+Science+Graduate;Junior+(PERN+Stack)+Developer;Graphics+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=f7f700&background=00FFE400&center=true&width=435&lines=Kilven+Codes+here+.+.+.;Computer+Science+Graduate;Junior+(PERN+Stack)+Developer;Graphics+Designer)](https://git.io/typing-svg)
 
 
 
