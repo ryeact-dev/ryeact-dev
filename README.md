@@ -30,7 +30,7 @@ Profileme.dev
 
 <code><img src="https://img.icons8.com/fluency/48/null/adobe-photoshop.png" alt="Adobe-Photoshop" /><img src="https://img.icons8.com/fluency/48/null/adobe-illustrator.png" alt="Adobe-Illustrator" /></code> 
 
-<code>![image](https://github.com/ryeact-dev/ryeact-dev/assets/87250276/dae948a4-f0d0-463e-96c3-394c71b4c08a)<img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" /><img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" /><img src="https://img.icons8.com/office/40/null/react.png"  alt="React" /></code> 
+<code><img src="https://img.icons8.com/color/48/null/postgresql.png" alt="MongoDB" /><img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" /><img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" /><img src="https://img.icons8.com/office/40/null/react.png"  alt="React" /></code> 
 
 <code><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" /><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/null/heroku.png" alt="Heroku" /><img src="https://img.icons8.com/color/48/000000/git.png"/></code> 
 
