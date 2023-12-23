@@ -14,7 +14,7 @@
 <!--
 Profileme.dev
 --->
-* 🌍  I'm based in Philippines
+
 * ✉️  You can contact me at [kilven.coder01@gmail.com](mailto:kilven.coder01@gmail.com)
 * 🧠  Focused and efficient self taught learner with practical expertise in full stack web development.
 * 🤝  Highly extensive experience working with Javascript, I would jump at any opportunity to continue growing my skillset in the JS field.
